@@ -1,0 +1,17 @@
+{
+  "name": "FB Explorer",
+  "description": "Excite your Facebook experience with FB Explorer",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "img/extension.png"
+  },
+  "permissions": ["scripting", "activeTab"],
+  "icons": {
+    "16": "img/extension.png",
+    "32": "img/extension32.png",
+    "48": "img/extension48.png",
+    "128": "img/extension128.png"
+  }
+}
